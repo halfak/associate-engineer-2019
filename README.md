@@ -1,7 +1,7 @@
 # Associate Engineer Task
 
 This project contains code and instructions for completing the Wikimedia Foundation's
-task for the Sr. Software Engineer position (see the job description).
+task for the Associate Software Engineer position (see the job description).
 
 To complete the task, read the following problem description and implement a solution.
 Please submit your solution (the code and a one-page description how you approached this
