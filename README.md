@@ -25,7 +25,8 @@ Write a python utility called "union_merge.py" that recursively merges
 together the fields that are present in each file and prints out JSON lines with
 merged information.  All rows should be returned whether they have a corresponding
 matching line in the other file or not.  When both files contain the same field,
-preference should be given to the fields in the second file ("b.json").
+preference should be given to the fields in the second file ("b.json").  Output 
+should also be in sorted order.
 
 ## An example:
 
