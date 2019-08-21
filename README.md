@@ -18,7 +18,8 @@ contains lines of JSON blobs.  E.g.,
 {"rev_id": 1002, "damaging": true, "goodfaith": false}
 ```
 
-The JSON blobs are ordered by "rev_id" in increasing order.
+The JSON blobs are ordered by "rev_id" in increasing order.  Consider taking advantage of 
+this guarantee in your solution.
 
 # The Task
 Write a python utility called "union_merge.py" that recursively merges
